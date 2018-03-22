@@ -1,0 +1,12 @@
+.login-sidebar {
+    min-height: 100vh;
+    position: relative;
+    z-index: 2;
+    padding: 0;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: #fff;
+    border-top: 5px solid #fff!important;
+    border-radius: 0;
+}
